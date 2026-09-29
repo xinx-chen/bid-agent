@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.streamlit/
+*.docx
+*.xlsx
+*.pdf
+test_files/
+knowledge_base/
+/tmp/
+config/产业互联网资质清单.xlsx
+config/废标规则30条.json
